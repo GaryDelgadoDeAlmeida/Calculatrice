@@ -1,0 +1,10 @@
+C:\Users\garya\Documents\Developpment\Application\C#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\garya\Documents\Developpment\Application\C#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\garya\Documents\Developpment\Application\C#\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\garya\Documents\Developpment\Application\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\garya\Documents\Developpment\Application\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+C:\Users\garya\Documents\Developpment\Application\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\garya\Documents\Developpment\Application\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\garya\Documents\Developpment\Application\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\garya\Documents\Developpment\Application\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\garya\Documents\Developpment\Application\C#\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
